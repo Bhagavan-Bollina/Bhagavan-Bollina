@@ -13,7 +13,7 @@
 
 ## Conferences & talks:-
 
-- Speaker at Girlscript Ireland(How to be safe in the Internet) */*/2020
+- Speaker at Girlscript Ireland(How to be safe in the Internet) x/x/2020
 - Troubleshooter at Breaking & pwning applications and servers in AWS and GCP Nullcon trainings 2022 ~ 06/09/22
 - Speaker at Nullhyd (Flying under radar ~ AWS IAM) 19/11/22
 
