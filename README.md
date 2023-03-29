@@ -1,9 +1,9 @@
-# Heyy
+<h2 align="center">Hey, I'm Bhagavan Bollina</h2>
 
-- 🔭 I’m currently working as Security Engineer @appsecco
-- 👯 I’m looking to collaborate on Bugcrowd
-
-
+- 👨🏻‍💻 I'm a Security Engineer at <a href='https://appsecco.com/' target='_blank'>Appsecco</a>
+- 👯 I’m looking to collaborate on <a href='https://bugcrowd.com/xcriminal_' target='_blank'>Bugcrowd</a>
+- ✍🏻 I write at <a href='https://0xcriminal.com/' target='_blank'>0xcriminal</a>, a platform that highlights security-related research focused on the web and cloud native security stuff.
+- 💬 For a more detailed *"About Me"*: <a href='https://0xcriminal.com' target='_blank'>Bhagavan Bollina</a>
 
 ## Area of Expertise:-
 
