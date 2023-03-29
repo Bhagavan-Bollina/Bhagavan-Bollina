@@ -13,10 +13,11 @@
 
 ## Certifications
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e5f63b63-cc7d-447e-a51b-1f42a1e462e7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
-<a href="https://www.credly.com/badges/e5f63b63-cc7d-447e-a51b-1f42a1e462e7/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" class="cert" alt='AWS CSA' width="80px"></a>
-<a href="https://www.credly.com/badges/18188d4d-026d-416a-84d1-582e90328f74/public_url" target="_blank"><img src="[https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/67908837)" class="cert" alt='Certified Azure Red Teaming Professional' width="80px"></a>
+
+<a href="https://www.credly.com/badges/e5f63b63-cc7d-447e-a51b-1f42a1e462e7/public_url" target="_blank"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" class="cert" alt='AWS CSA' width="80px"></a>
+
+<a href="https://www.credential.net/49b8fbcc-7def-4ace-a817-262ac3830c57" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/67908837" class="cert" alt='Certified Azure Red Teaming Professional' width="80px"></a>
 
 ## Conferences & talks:-
 
