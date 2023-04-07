@@ -1,4 +1,6 @@
-site_name: My Docs
+site_name: About
 
 nav: 
-  - BIO: 1.md
+  - BIO: docs/1.md
+
+theme: material
