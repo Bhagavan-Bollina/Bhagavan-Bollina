@@ -1,1 +1,4 @@
 site_name: My Docs
+
+nav: 
+    BIO: 1.md
