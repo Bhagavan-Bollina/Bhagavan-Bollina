@@ -1,6 +1,6 @@
 site_name: About
 
 nav: 
-  - BIO: docs/1.md
+  - BIO: 1.md
 
 theme: material
