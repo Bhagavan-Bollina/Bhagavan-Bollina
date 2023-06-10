@@ -32,6 +32,7 @@
 - Speaker at Nullhyd (Flying under radar ~ AWS IAM) 19/11/22
 - Speaker at Nullhyd (Flying under radar ~ AWS IAM - II) 17/12/22
 - Speaker at Nullhyd (Mind the Gap: Identifying and Addressing Weaknesses in Your GCP) 18/03/23
+- Speaker at Bsides Banglore (Breaking & pwning applications and servers in AWS and GCP) 06/06/2023
 
 
 <a href="https://0xcriminal.com/">
