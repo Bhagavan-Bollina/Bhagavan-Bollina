@@ -34,7 +34,7 @@
 - Speaker at Nullhyd (Flying under radar ~ AWS IAM) 19/11/22
 - Speaker at Nullhyd (Flying under radar ~ AWS IAM - II) 17/12/22
 - Speaker at Nullhyd (Mind the Gap: Identifying and Addressing Weaknesses in Your GCP) 18/03/23
-- Speaker at Bsides Banglore (Breaking & pwning applications and servers in AWS and GCP) 06/06/2023
+- Trainer at Bsides Banglore (Breaking & pwning applications and servers in AWS and GCP) 06/06/2023
 - Speaker at Bsides CDMX (Getting shell and data access in AWS App Runner) 14/07/23
 - Speaker at Bsides RDU (The Story of Cascading Misconfigurations in AWS) 22/09/23
 
