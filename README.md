@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 I'm a cloud security researcher 
 - 👯 I’m looking to collaborate on <a href='https://bugcrowd.com/xcriminal_' target='_blank'>Bugcrowd</a>
-- ✍🏻 I write at <a href='https://ibreak.cloud/' target='_blank'>0xcriminal</a>, a platform that highlights security-related research focused on the web and cloud native security stuff.
+- ✍🏻 I write at <a href='https://ibreak.cloud/' target='_blank'>ibreak.cloud</a>, a platform that highlights security-related research focused on the web and cloud native security stuff.
 - 💬 For a more detailed *"About Me"*: <a href='https://ibreak.cloud' target='_blank'>Bhagavan Bollina</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhagavan-Bollina&label=Profile%20views&color=0e75b6&style=flat" alt="Bhagavan-Bollina" /> </p>
