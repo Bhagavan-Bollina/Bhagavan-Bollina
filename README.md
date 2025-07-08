@@ -13,12 +13,7 @@
 - Cloud Security
 - Penetration Testing & Red Teaming
 
-#### Certifications
 
-<a href="https://www.credly.com/badges/e5f63b63-cc7d-447e-a51b-1f42a1e462e7/public_url" target="_blank"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" class="cert" alt='AWS CSA' width="80px"></a>
-<a href="https://www.credential.net/49b8fbcc-7def-4ace-a817-262ac3830c57" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/67908837" class="cert" alt='Certified Azure Red Teaming Professional' width="80px"></a>
-<a href="https://aspen.eccouncil.org/Verify" target="_blank"><img src="https://dataspaceacademy.com/public/images/certification/ECC-CEH-Certificate_page-0001.jpg" class="cert" alt='Certified Ethical Hacker V11 ~ ECC0523861974' width="80px"></a>
-<a href="https://verified.elearnsecurity.com/certificates/ee501b97-bb7c-43cb-bd8d-6316c460ca79" target="_blank"><img src="https://9fov2ct9h3ayafqkkrsy8zll9g8vzvyd.s3.amazonaws.com/cert/ewptxv2.png" class="cert" alt='eWPTXv2' width="80px"></a>
 
 
 #### Tech Stack
