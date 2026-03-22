@@ -32,6 +32,8 @@
 - Speaker at Bsides CDMX (Getting shell and data access in AWS App Runner) 14/07/23
 - Speaker at Bsides RDU (The Story of Cascading Misconfigurations in AWS) 22/09/23
 - Speaker at DefCon 33 - Cloud Village (Attacking Apps & Servers in AWS) 07/08/2025
+- Speaker at RSA 2026 - Hack The Bay (Hunting Shell via Chaining Misconfigs in AWS) 21/03/2026
+- Speaker at RSA 2026 - Cloud Village (Cryptographic Trust for AI Agent Approvals) 24/03/2026
 
 
 <a href="https://ibreak.cloud/">
