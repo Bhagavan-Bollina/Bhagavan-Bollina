@@ -10,7 +10,7 @@
 
 - Application Security
 - Cloud Security
-- Penetration Testing & Red Teaming
+- Penetration Testing
 
 
 
@@ -31,6 +31,7 @@
 - Trainer at Bsides Banglore (Breaking & pwning applications and servers in AWS and GCP) 06/06/2023
 - Speaker at Bsides CDMX (Getting shell and data access in AWS App Runner) 14/07/23
 - Speaker at Bsides RDU (The Story of Cascading Misconfigurations in AWS) 22/09/23
+- Speaker at DefCon 33 - Cloud Village (Attacking Apps & Servers in AWS) 07/08/2025
 
 
 <a href="https://ibreak.cloud/">
